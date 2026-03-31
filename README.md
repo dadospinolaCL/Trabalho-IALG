@@ -1,7 +1,9 @@
 #Trabalho final do primeiro período da faculdade
 
+
 #Objetivo
 - Criar uma struct com o tema música com os campos: nome (string), artista (string), duração (string), ano (int), views (long long), media_views (double), descrição (string)
+  
 - Funções:
     - Exibir dados (músicas)
           - Exibir todos os dados
