@@ -4,7 +4,7 @@
 ## Objetivo
 - Criar uma struct com o tema música com os campos: nome (string), artista (string), duração (string), ano (int), views (long long), media_views (double), descrição (string)
   
-### Funções:
+## Funções:
     - Exibir dados (músicas)
           - Exibir todos os dados
           - Exibir uma parte escolhida com dois índices pelo usuário
